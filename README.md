@@ -10,7 +10,7 @@
 
 - 🔭 I am currently working on the project: **Cuidando Huellas**
 
-- 🌱 I am currently learning: **Nodejs,JavaScript**
+- 🌱 I am currently learning: **Nodejs and JavaScript**
 
 - 📫 Email: **jeancg2004@gmail.com**
 
